@@ -1,0 +1,17 @@
+SetSpeed:
+	    Set the speed value that is recieved
+
+EngineControl:
+      Read Speed and Override acceleration commands when vehicle reaches governed speed
+
+SpeedLimiter:
+	    Controlling the maximum speed of the vehicle based on a configurable threshold
+
+ConfigurationManager:
+	    Manage the programmable speed threshold securely via interfaces such as OBD-II, CAN,   or external tools.
+
+DriverAlertSystem:
+	    Provide real-time driver feedback (dashboard indicators, audible beeps) when the governed speed is reached.
+
+EventLogger:
+	    Log speed governor activations for fleet management and compliance audits.
