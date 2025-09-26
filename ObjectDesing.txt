@@ -1,7 +1,7 @@
 SetSpeed:
 	    Set the speed value that is recieved
-
-EngineControl:
+//Noun
+EngineController:
       Read Speed and Override acceleration commands when vehicle reaches governed speed
 
 SpeedLimiter:
